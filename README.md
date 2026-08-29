@@ -1,3 +1,7 @@
+# CSE-406 Cyber Security Sessional
+
+This repository contains the offline assignments for the **CSE-406: Cyber Security** sessional course.
+
 
 ## Offline 1 — Cryptography
 
